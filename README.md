@@ -16,9 +16,9 @@ Reqirements :
 * [FrontAccess]
 * [XActivate]
 
-[ModuleLoader]: http://www.script-factory.net/software/OSAX/ModuleLoader/en/index.html
-[FrontAccess]: http://www.script-factory.net/XModules/FrontAccess/en/index.html
-[XActivate] : http://www.script-factory.net/XModules/XActivate/en/index.html
+[ModuleLoader]: https://www.script-factory.net/software/OSAX/ModuleLoader/en/index.html
+[FrontAccess]: https://www.script-factory.net/XModules/FrontAccess/en/index.html
+[XActivate]: https://www.script-factory.net/XModules/XActivate/en/index.html
 
 ## Licence
 
